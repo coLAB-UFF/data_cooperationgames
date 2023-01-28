@@ -1,6 +1,6 @@
 # data_cooperationgames
 
-Graphic material and prototypes of the game box produced for the project "Jogos de Cooperação" (*Cooperation Games*), awarded with CNPq's Detaque da Iniciação Científica e Tecnológica, 2015 edition.
+Graphic material and prototypes of the game box produced for the project "Jogos de Cooperação" (*Cooperation Games*), awarded with CNPq's Destaque da Iniciação Científica e Tecnológica, 2015 edition.
 
 Please refer to [colab.uff.br](http://colab-uff.github.io/) for instructions on using and citing these data.
 
