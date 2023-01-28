@@ -4,7 +4,7 @@ Graphic material and prototypes of the game box produced for the project "Jogos 
 
 Please refer to [colab.uff.br](http://colab-uff.github.io/) for instructions on using and citing these data.
 
-![](https://github.com/coLAB-UFF/data_cooperationgames/blob/main/jogos-de-cooperacao/capa%20jogo.pdf)
+![](https://raw.githubusercontent.com/coLAB-UFF/data_cooperationgames/main/slide.png)
 
 
 ## Using this data
